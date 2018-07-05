@@ -18,7 +18,7 @@ public class StringCalculatorTest {
 		System.out.println("hello");
 		System.out.println("hi");
 		System.out.println("hi hello");
-		System.out.println("12345");
+	System.out.println("hey!!");
 	}
 
 }
