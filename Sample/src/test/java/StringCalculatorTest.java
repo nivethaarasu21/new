@@ -16,6 +16,7 @@ public class StringCalculatorTest {
 	{
 		StringCalculator.add("1,2,3");
 		System.out.println("hello");
+		System.out.println("hi");
 	}
 
 }
